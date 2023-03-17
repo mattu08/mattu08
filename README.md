@@ -8,6 +8,7 @@ I'm Matt (he/him/his), a full time software developer and full-stack web develop
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/matthewutin)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1376089/mattlinux1)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mattu08)
+[![glitch.com](https://img.shields.io/badge/glitch-0A0A0A?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com/@mattu08)
 
 #### I'm currently working with
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
