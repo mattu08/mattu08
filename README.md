@@ -1,7 +1,7 @@
 [![@Matthew Utin's board](https://holopin.io/api/user/board?user=mattu08)](https://holopin.io/@mattu08)
 ### Hi there 👋
 
-I'm Matt (he/him/his), a full time software developer and full-stack web developer with a passion for the outdoors. 🍃
+I'm Matt, a full time software developer and full-stack web developer with a passion for the outdoors. 🍃
 
 #### You can find me on
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matthewutin)
